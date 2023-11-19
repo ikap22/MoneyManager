@@ -4,8 +4,8 @@ public class FinanceManager {
 
 
 
-        // You can also call methods or perform other setup tasks here.
+      
         
-        userInterface.start(); // Start your application by invoking the user interface.
+        userInterface.start(); 
     }
 }
